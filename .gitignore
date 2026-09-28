@@ -1,0 +1,13 @@
+# 依赖与运行时产物
+node_modules/
+package-lock.json
+
+# 运行时数据（登录态、清单、下载内容）
+_login_profile/
+_progress.json
+_progress.log
+*.mp4
+*.jpg
+*.png
+_manifest*.json
+_skipped.txt
